@@ -1,0 +1,36 @@
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır Sutun Efekt.dll
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır Sutun Efekt.pdb
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\AppManifest.xaml
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır Sutun Efekt.xap
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır_Sutun_EfektTestPage.html
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.csprojResolveAssemblyReference.cache
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\App.g.cs
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\MainPage.g.cs
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.g.resources
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.dll
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.pdb
+D:\56\Gelişmiş Web Uyg\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\XapCacheFile.xml
+G:\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır Sutun Efekt.dll
+G:\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır Sutun Efekt.pdb
+G:\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\AppManifest.xaml
+G:\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır Sutun Efekt.xap
+G:\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır_Sutun_EfektTestPage.html
+G:\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.csprojResolveAssemblyReference.cache
+G:\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\App.g.cs
+G:\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\MainPage.g.cs
+G:\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.g.resources
+G:\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.dll
+G:\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.pdb
+G:\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\XapCacheFile.xml
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır Sutun Efekt.dll
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır Sutun Efekt.pdb
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\AppManifest.xaml
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır Sutun Efekt.xap
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\Bin\Debug\Satır_Sutun_EfektTestPage.html
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.csprojResolveAssemblyReference.cache
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\App.g.cs
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\MainPage.g.cs
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.g.resources
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.dll
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\Satır Sutun Efekt.pdb
+E:\Gelişmiş Web\Satır Sutun Efekt\Satır Sutun Efekt\obj\Debug\XapCacheFile.xml
